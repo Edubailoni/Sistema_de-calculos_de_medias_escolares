@@ -1,2 +1,3 @@
-# Sistema_de-calculos_de_medias_escolares
-(PTBR) - Sistema para meu próprio aprendizado. Criado em Python, tem como função solicitar dados básicos sobre o aluno e a matéria em questão e as notas dos 04 (quatro) bimestres que compõem o ano letivo escolar. A partir disso, o sistema calcula a média dos 04 bimestres e lhe gera uma mensagem de aprovação ou reprovação na matéria.
+# Sistema_de-calculos_de_medias_escolares - Por Eduardo Bailoni
+(PTBR) - Sistema simples para meu próprio aprendizado. Criado em Python, tem como função solicitar dados básicos sobre o aluno e a matéria em questão e as notas dos 04 (quatro) bimestres que compõem o ano letivo escolar. A partir disso, o sistema calcula a média dos 04 bimestres e lhe gera uma mensagem de aprovação ou reprovação na matéria.
+(ENUS) - Simple System developed for my own learning. Developed in Python, its function is to request basic data about the student and the school subject and the score getted of the four (4) bimonths that make up the brazilian school year. From this, the system calculates the average and generates a message congratulating (if passeed) or sorry (if dont passed) for the student.
